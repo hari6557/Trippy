@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Trippy/static/css/main.c3e53c0d.chunk.css",
+    "main.js": "/Trippy/static/js/main.57ebee44.chunk.js",
+    "main.js.map": "/Trippy/static/js/main.57ebee44.chunk.js.map",
+    "runtime-main.js": "/Trippy/static/js/runtime-main.177ccef0.js",
+    "runtime-main.js.map": "/Trippy/static/js/runtime-main.177ccef0.js.map",
+    "static/js/2.b79bb511.chunk.js": "/Trippy/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/Trippy/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/Trippy/index.html",
+    "precache-manifest.d287d6dc4744c2b0c3733e1bd3652ed7.js": "/Trippy/precache-manifest.d287d6dc4744c2b0c3733e1bd3652ed7.js",
+    "service-worker.js": "/Trippy/service-worker.js",
+    "static/css/main.c3e53c0d.chunk.css.map": "/Trippy/static/css/main.c3e53c0d.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/Trippy/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.177ccef0.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.c3e53c0d.chunk.css",
+    "static/js/main.57ebee44.chunk.js"
+  ]
+}
