@@ -1,1 +1,1 @@
-# Trippy
+## React Projects Starter APP
